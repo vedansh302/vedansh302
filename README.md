@@ -1,16 +1,16 @@
 # 💫 About Me:
 
 👋 Hi, I’m @vedansh302
-I am a passionate Full Stack Developer with a strong interest in software development. I love building applications that provide seamless user experiences and solving complex problems through code.
+- I am a passionate Full Stack Developer with a strong interest in software development. I love building applications that provide seamless user experiences and solving complex problems through code.
 
 💞️ Looking for Opportunities
-I am actively seeking internships to further develop my skills and contribute to innovative projects.
+- I am actively seeking internships to further develop my skills and contribute to innovative projects.
 
 🌱 Currently Learning
-Nextjs
+- Nextjs
 
 📫 Contact Me
-Feel free to reach out via email: [vedanshwork302@gmail.com](mailto:vedanshwork302@gmail.com)
+- Feel free to reach out via email: [vedanshwork302@gmail.com](mailto:vedanshwork302@gmail.com)
 
 # 💻 Tech Stack:
 
