@@ -5,5 +5,3 @@
 - 📫 How to reach me - mail - vedanshwork302@gmail.com
 
 #💻 Tech Stack:
-
-![Alt text](D:/Coding/SVG/nodejs.svg)
