@@ -6,4 +6,4 @@
 
 # 💻 Tech Stack:
 
-![Alt text](SVG/nodejs.svg)
+![Alt text](https://raw.githubusercontent.com/vedansh302/SVG/main/nodejs.svg?token=GHSAT0AAAAAACVONZR7GGWIKDUHDXAWCZ4KZVOCMKQ)
