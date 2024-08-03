@@ -32,7 +32,6 @@ Here are the technologies I work with:
 ![React Router](https://raw.githubusercontent.com/vedansh302/SVG/main/reactrouter.svg)
 ![Redis](https://raw.githubusercontent.com/vedansh302/SVG/main/redis.svg)
 ![Python](https://raw.githubusercontent.com/vedansh302/SVG/main/python.svg)
-![Python](https://raw.githubusercontent.com/vedansh302/SVG/main/javasvg.svg)
 
 ## 🌟 Let's Connect!
 I'm excited to connect with other developers and explore collaboration opportunities. Let's build something amazing together!
