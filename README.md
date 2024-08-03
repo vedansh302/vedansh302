@@ -10,7 +10,7 @@
 ![Alt text](https://raw.githubusercontent.com/vedansh302/SVG/main/CSS.svg?token=GHSAT0AAAAAACVONZR6IPFC37RCCWR4ZLQCZVOCNNA)
 ![Alt text](https://raw.githubusercontent.com/vedansh302/SVG/main/tailwindcss.svg?token=GHSAT0AAAAAACVONZR7SDPL4P45DZ4JKRGWZVOCOPQ)
 ![Alt text](https://raw.githubusercontent.com/vedansh302/SVG/main/bootstrap.svg?token=GHSAT0AAAAAACVONZR6TEJEEVTHEPCODXOMZVOCOEQ)
-![Alt text](https://raw.githubusercontent.com/vedansh302/SVG/main/nodejs.svg?token=GHSAT0AAAAAACVONZR7GGWIKDUHDXAWCZ4KZVOCMKQ)
+![Alt text](https://raw.githubusercontent.com/vedansh302/SVG/main/nodejs.svg?token=GHSAT0AAAAAACVONZR734EM22AQ72EDKKG2ZVOCWCQ)
 ![Alt text](https://raw.githubusercontent.com/vedansh302/SVG/main/javascript.svg?token=GHSAT0AAAAAACVONZR6UJJIMWJCMLSZL3TYZVOCOYA)
 ![Alt text](https://raw.githubusercontent.com/vedansh302/SVG/main/expressjs.svg?token=GHSAT0AAAAAACVONZR6YLCGEF5ANG5KL3UIZVOCPEQ)
 ![Alt text](https://raw.githubusercontent.com/vedansh302/SVG/main/next.svg?token=GHSAT0AAAAAACVONZR7A5UHTQJKGJN3IYMIZVOCPOA)
