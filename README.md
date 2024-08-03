@@ -6,12 +6,12 @@
 
 # 💻 Tech Stack:
 
-![Alt text](https://raw.githubusercontent.com/vedansh302/SVG/main/nodejs.svg?token=GHSAT0AAAAAACVONZR7GGWIKDUHDXAWCZ4KZVOCMKQ)
+![HTML](https://raw.githubusercontent.com/vedansh302/SVG/main/html.svg?token=GHSAT0AAAAAACVONZR7BTGUCR7JIAAT6FDSZVOCO6A)
 ![Alt text](https://raw.githubusercontent.com/vedansh302/SVG/main/CSS.svg?token=GHSAT0AAAAAACVONZR6IPFC37RCCWR4ZLQCZVOCNNA)
-![Alt text](https://raw.githubusercontent.com/vedansh302/SVG/main/bootstrap.svg?token=GHSAT0AAAAAACVONZR6TEJEEVTHEPCODXOMZVOCOEQ)
 ![Alt text](https://raw.githubusercontent.com/vedansh302/SVG/main/tailwindcss.svg?token=GHSAT0AAAAAACVONZR7SDPL4P45DZ4JKRGWZVOCOPQ)
+![Alt text](https://raw.githubusercontent.com/vedansh302/SVG/main/bootstrap.svg?token=GHSAT0AAAAAACVONZR6TEJEEVTHEPCODXOMZVOCOEQ)
+![Alt text](https://raw.githubusercontent.com/vedansh302/SVG/main/nodejs.svg?token=GHSAT0AAAAAACVONZR7GGWIKDUHDXAWCZ4KZVOCMKQ)
 ![Alt text](https://raw.githubusercontent.com/vedansh302/SVG/main/javascript.svg?token=GHSAT0AAAAAACVONZR6UJJIMWJCMLSZL3TYZVOCOYA)
-![Alt text](https://raw.githubusercontent.com/vedansh302/SVG/main/html.svg?token=GHSAT0AAAAAACVONZR7BTGUCR7JIAAT6FDSZVOCO6A)
 ![Alt text](https://raw.githubusercontent.com/vedansh302/SVG/main/expressjs.svg?token=GHSAT0AAAAAACVONZR6YLCGEF5ANG5KL3UIZVOCPEQ)
 ![Alt text](https://raw.githubusercontent.com/vedansh302/SVG/main/next.svg?token=GHSAT0AAAAAACVONZR7A5UHTQJKGJN3IYMIZVOCPOA)
 ![Alt text](https://raw.githubusercontent.com/vedansh302/SVG/main/python.svg?token=GHSAT0AAAAAACVONZR7YRBAPMB2ZZM6E5OYZVOCPXA)
@@ -20,3 +20,4 @@
 ![Alt text](https://raw.githubusercontent.com/vedansh302/SVG/main/redis.svg?token=GHSAT0AAAAAACVONZR65C7GCWKGOX6ZY3GKZVOCQMQ)
 ![Alt text](https://raw.githubusercontent.com/vedansh302/SVG/main/redux.svg?token=GHSAT0AAAAAACVONZR7MY3YP3OFJMCQVW7QZVOCQVA)
 ![Alt text](https://raw.githubusercontent.com/vedansh302/SVG/main/typescript.svg?token=GHSAT0AAAAAACVONZR6I7V73AKWB2DJYWK4ZVOCQ7Q)
+![Alt text](https://raw.githubusercontent.com/vedansh302/SVG/main/mongodb.svg?token=GHSAT0AAAAAACVONZR6JN3QY3VF4XGXL6GUZVOCSDQ)
