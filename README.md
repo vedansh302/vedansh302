@@ -12,7 +12,7 @@
 📫 **Contact Me**
 - Feel free to reach out via email: [vedanshwork302@gmail.com](mailto:vedanshwork302@gmail.com)
 
-🔭 **I’m currently working on:**
+🔭 **I’m currently working on:**  
 Improving cloud-based solutions and implementing microservices architecture.
 
 # 💻 **Tech Stack:**
