@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-👋 **Hi, I’m @vedansh302**  
+👋 **Hi, I’m Vedansh Shrivastava**  
 I am a passionate Full Stack Developer with a strong interest in software development. I love building applications that provide seamless user experiences and solving complex problems through code.
 
 💞️ **Looking for Opportunities**  
