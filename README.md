@@ -4,4 +4,4 @@
 - 💞️ I’m looking for interships
 - 📫 How to reach me - mail - vedanshwork302@gmail.com
 
-#💻 Tech Stack:
+# 💻 Tech Stack:
