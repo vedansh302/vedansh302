@@ -6,7 +6,7 @@
 
 # 💻 Tech Stack:
 
-![HTML](https://raw.githubusercontent.com/vedansh302/SVG/main/html.svg)
+![HTML](https://raw.githubusercontent.com/vedansh302/SVG/main/html.svg?token=GHSAT0AAAAAACVONZR7LZHPMB5XHZVPWFLYZVOC2CA)
 ![Alt text](https://raw.githubusercontent.com/vedansh302/SVG/main/CSS.svg?token=GHSAT0AAAAAACVONZR6IPFC37RCCWR4ZLQCZVOCNNA)
 ![Alt text](https://raw.githubusercontent.com/vedansh302/SVG/main/tailwindcss.svg?token=GHSAT0AAAAAACVONZR7SDPL4P45DZ4JKRGWZVOCOPQ)
 ![Alt text](https://raw.githubusercontent.com/vedansh302/SVG/main/bootstrap.svg?token=GHSAT0AAAAAACVONZR6TEJEEVTHEPCODXOMZVOCOEQ)
