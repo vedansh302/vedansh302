@@ -32,7 +32,6 @@ Here are the technologies I work with:
 ![React Router](https://raw.githubusercontent.com/vedansh302/SVG/main/reactrouter.svg)
 ![Redis](https://raw.githubusercontent.com/vedansh302/SVG/main/redis.svg)
 ![Python](https://raw.githubusercontent.com/vedansh302/SVG/main/python.svg)
-![Python](https://img.shields.io/badge/JavaScript-%23000?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 
 ## 🌟 Let's Connect!
