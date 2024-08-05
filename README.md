@@ -34,12 +34,13 @@ Here are the technologies I work with:
 ![Python](https://raw.githubusercontent.com/vedansh302/SVG/main/python.svg)
 
 
-## 🌟 Let's Connect!
-I'm excited to connect with other developers and explore collaboration opportunities. Let's build something amazing together!
-
 # 📊 GitHub Stats:
 
 ![vedansh302's Stats](https://github-readme-stats.vercel.app/api?username=vedansh302&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&card_width=500)  
 ![vedansh302's Streak](https://github-readme-streak-stats.herokuapp.com/?user=vedansh302&theme=tokyonight&hide_border=true&card_width=500)  
 ![vedansh302's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vedansh302&theme=tokyonight&show_icons=true&hide_border=true&layout=compact&card_width=500)
+
+
+## 🌟 Let's Connect!
+I'm excited to connect with other developers and explore collaboration opportunities. Let's build something amazing together!
 
