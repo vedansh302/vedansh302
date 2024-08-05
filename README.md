@@ -1,4 +1,6 @@
-![GitHub Views](https://komarev.com/ghpvc/?username=natterstefan&color=FAC151)
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=natterstefan&color=FAC151" alt="GitHub Views" />
+</p>
 
 # 💫 About Me:
 
