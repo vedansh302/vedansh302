@@ -26,15 +26,15 @@ Here are the technologies I work with:
 ![Tailwind CSS](https://raw.githubusercontent.com/vedansh302/SVG/main/tailwindcss.svg)
 ![Bootstrap](https://raw.githubusercontent.com/vedansh302/SVG/main/bootstrap.svg)
 ![JavaScript](https://raw.githubusercontent.com/vedansh302/SVG/main/javascript.svg)
-![TypeScript](https://raw.githubusercontent.com/vedansh302/SVG/main/typescript.svg)
+<!-- ![TypeScript](https://raw.githubusercontent.com/vedansh302/SVG/main/typescript.svg) -->
 ![Node.js](https://raw.githubusercontent.com/vedansh302/SVG/main/nodejs.svg)
 ![Express.js](https://raw.githubusercontent.com/vedansh302/SVG/main/expressjs.svg)
 ![MongoDB](https://raw.githubusercontent.com/vedansh302/SVG/main/mongodb.svg)
-![Next.js](https://raw.githubusercontent.com/vedansh302/SVG/main/next.svg)
+<!-- ![Next.js](https://raw.githubusercontent.com/vedansh302/SVG/main/next.svg) -->
 ![React](https://raw.githubusercontent.com/vedansh302/SVG/main/react.svg)
 ![Redux](https://raw.githubusercontent.com/vedansh302/SVG/main/redux.svg)
 ![React Router](https://raw.githubusercontent.com/vedansh302/SVG/main/reactrouter.svg)
-![Redis](https://raw.githubusercontent.com/vedansh302/SVG/main/redis.svg)
+<!-- ![Redis](https://raw.githubusercontent.com/vedansh302/SVG/main/redis.svg)-->
 ![Python](https://raw.githubusercontent.com/vedansh302/SVG/main/python.svg)
 
 
