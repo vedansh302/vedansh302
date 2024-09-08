@@ -25,7 +25,7 @@ Here are the technologies I work with:
 ![CSS](https://raw.githubusercontent.com/vedansh302/SVG/main/CSS.svg)
 ![Tailwind CSS](https://raw.githubusercontent.com/vedansh302/SVG/main/tailwindcss.svg)
 ![Bootstrap](https://raw.githubusercontent.com/vedansh302/SVG/main/bootstrap.svg)
-![JavaScript](https://raw.githubusercontent.com/vedansh302/SVG/main/javascript.svg)
+![JavScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript&logoColor=yellow&color=black)
 ![Node.js](https://raw.githubusercontent.com/vedansh302/SVG/main/nodejs.svg)
 ![Express.js](https://raw.githubusercontent.com/vedansh302/SVG/main/expressjs.svg)
 ![MongoDB](https://raw.githubusercontent.com/vedansh302/SVG/main/mongodb.svg)
