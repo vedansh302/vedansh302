@@ -35,12 +35,6 @@ Here are the technologies I work with:
 ![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python&logoColor=rgb(255%2C221%2C84)&color=rgb(54%2C112%2C160))
 
 
-
-![TypeScript](https://raw.githubusercontent.com/vedansh302/SVG/main/typescript.svg)
-![Next.js](https://raw.githubusercontent.com/vedansh302/SVG/main/next.svg) 
-![Redis](https://raw.githubusercontent.com/vedansh302/SVG/main/redis.svg)
-
-
 # 📊 GitHub Stats:
 
 ![vedansh302's Stats](https://github-readme-stats.vercel.app/api?username=vedansh302&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&card_width=500)  
