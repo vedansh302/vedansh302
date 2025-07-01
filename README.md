@@ -36,9 +36,9 @@ Here are the technologies I work with:
 
 
 
-<!-- ![TypeScript](https://raw.githubusercontent.com/vedansh302/SVG/main/typescript.svg) -->
-<!-- ![Next.js](https://raw.githubusercontent.com/vedansh302/SVG/main/next.svg) -->
-<!-- ![Redis](https://raw.githubusercontent.com/vedansh302/SVG/main/redis.svg)-->
+![TypeScript](https://raw.githubusercontent.com/vedansh302/SVG/main/typescript.svg)
+![Next.js](https://raw.githubusercontent.com/vedansh302/SVG/main/next.svg) 
+![Redis](https://raw.githubusercontent.com/vedansh302/SVG/main/redis.svg)
 
 
 # 📊 GitHub Stats:
