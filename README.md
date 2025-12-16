@@ -34,6 +34,8 @@ Here are the technologies I work with:
 ![react router](https://img.shields.io/badge/react%20router-black?style=for-the-badge&logo=reactrouter&logoColor=white&color=rgb(202%2C66%2C69))
 ![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python&logoColor=rgb(255%2C221%2C84)&color=rgb(54%2C112%2C160))
 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
 
 <!-- # 📊 GitHub Stats:
 
