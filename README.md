@@ -20,7 +20,6 @@ Feel free to reach out via email: [vedanshwork302@gmail.com](mailto:vedanshwork3
 # 💻 **Tech Stack:**
 
 Here are the technologies I work with:
-
 <!-- ![HTML](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5&logoColor=white&color=orange)
 ![CSS](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3&logoColor=white&color=blue)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-black?style=for-the-badge&logo=tailwindcss&logoColor=white&color=rgb(56%2C178%2C172))
@@ -35,13 +34,10 @@ Here are the technologies I work with:
 ![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python&logoColor=rgb(255%2C221%2C84)&color=rgb(54%2C112%2C160)) -->
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,redux,redis,nextjs,nodejs,express,mongodb,mysql,fastapi,git,github,aws,cpp,py,docker,kubernetes,&perline=5&theme=dark)](https://skillicons.dev)
-
 <!-- # 📊 GitHub Stats:
-
 <!-- ![vedansh302's Stats](https://github-readme-stats.vercel.app/api?username=vedansh302&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&card_width=500)  
 <!-- ![vedansh302's Streak](https://github-readme-streak-stats.herokuapp.com/?user=vedansh302&theme=tokyonight&hide_border=true&card_width=500)  
 <!-- ![vedansh302's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vedansh302&theme=tokyonight&show_icons=true&hide_border=true&layout=compact&card_width=500) -->
-
 
 ## 🌟 Let's Connect!
 I'm excited to connect with other developers and explore collaboration opportunities. Let's build something amazing together!
