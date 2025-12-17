@@ -4,7 +4,7 @@
 
 # 👋 Vedansh Shrivastava
 
-**Full Stack Developer**  
+** Full Stack Developer **  
 I build production-ready web applications with a focus on clean architecture, performance, and real-world usability.
 
 I care about systems that actually work: authentication, APIs, databases, state management, deployments, and scalability.
