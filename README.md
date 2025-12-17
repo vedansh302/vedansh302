@@ -1,49 +1,36 @@
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=vedansh302&color=FAC151" alt="GitHub Views" />
-</p>
+# Hi, I'm Vedansh 👋
 
-# 👋 Vedansh Shrivastava
+Full Stack Developer | I build production-ready web applications with a focus on clean architecture, performance, and real-world usability. 
 
-**Full Stack Developer**  
-I build production-ready web applications with a focus on clean architecture, performance, and real-world usability.
-
-I care about systems that actually work: authentication, APIs, databases, state management, deployments, and scalability.
+Exploring **Data Science, AI & Machine Learning**
 
 ---
 
-## 🔍 What I Do
-- Build full-stack applications using **React / Next.js, Node.js, Express**
-- Design REST APIs and backend logic
-- Work with **MongoDB, MySQL**, and caching using **Redis**
-- Write clean, maintainable code with **TypeScript**
-- Deploy apps using **Docker, AWS**, and modern workflows
+## 🔭 Currently Working On
+- Building AI-powered web applications
+- Learning ML/AI fundamentals and implementations
+- Expanding knowledge in data science workflows
 
 ---
 
-## 🎯 What I’m Looking For
-I’m actively looking for **internship or junior developer roles** where I can:
-- Work on real production code
-- Learn from experienced engineers
-- Contribute meaningfully, not just “assist”
-
----
-
-## 🧠 Currently Improving
-- Advanced **Next.js** patterns
-- Backend scalability & system design basics
-- Dockerized deployments and cloud fundamentals
-- Core **AI/ML concepts** and practical applications
-
----
-
-## 🧩 Tech Stack
+## 💻 Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,redux,nextjs,nodejs,express,redis,mongodb,mysql,fastapi,git,github,docker,aws,cpp,py,kubernetes&perline=5&theme=dark)](https://skillicons.dev)
 
 ---
 
-## 📫 Contact
-- Email: **vedanshwork302@gmail.com**
-- Portfolio: https://vedanshworks.vercel.app
+## 🚀 Featured Projects
+- **[RERO](https://github.com/yourusername/rero)** - Renewable energy optimizer with ML predictions
+- **[Echo AI](https://github.com/yourusername/echo-ai)** - AI chatbot platform with OpenAI integration
+- **[Cartify](https://github.com/yourusername/cartify)** - AI-powered e-commerce platform
 
 ---
 
+## 📫 Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/vedansh302)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:vedanshwork302@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-blue?style=flat&logo=veed)](https://vedanshworks.vercel.app/)
+
+
+
+---
+💡 *"Building at the intersection of web development and artificial intelligence"*
