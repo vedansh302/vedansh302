@@ -4,10 +4,9 @@
 
 # 👋 Vedansh Shrivastava
 
-**Full Stack Developer (MERN + TypeScript)**  
+**Full Stack Developer**  
 I build production-ready web applications with a focus on clean architecture, performance, and real-world usability.
-
-I’m not interested in toy projects. I care about systems that actually work: authentication, APIs, databases, state management, deployments, and scalability.
+I care about systems that actually work: authentication, APIs, databases, state management, deployments, and scalability.
 
 ---
 
@@ -40,22 +39,9 @@ I’m actively looking for **internship or junior developer roles** where I can:
 
 ---
 
-## 📌 Featured Projects
-Check my pinned repositories below.  
-Each project includes:
-- Clear problem statement
-- Tech decisions
-- Screenshots / demos
-- Structured codebase
-
----
-
 ## 📫 Contact
 - Email: **vedanshwork302@gmail.com**
 - Portfolio: https://vedanshworks.vercel.app
-- GitHub: https://github.com/vedansh302
 
 ---
 
-⚠️ If you’re a recruiter:  
-Please **open the pinned repositories**. That’s where the real signal is.
