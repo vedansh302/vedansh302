@@ -4,10 +4,10 @@
 
 # 👋 Vedansh Shrivastava
 
-**Full Stack Developer (MERN + TypeScript)**  
+**Full Stack Developer**  
 I build production-ready web applications with a focus on clean architecture, performance, and real-world usability.
 
-I’m not interested in toy projects. I care about systems that actually work: authentication, APIs, databases, state management, deployments, and scalability.
+I care about systems that actually work: authentication, APIs, databases, state management, deployments, and scalability.
 
 ---
 
