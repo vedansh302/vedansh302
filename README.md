@@ -6,6 +6,7 @@
 
 **Full Stack Developer**  
 I build production-ready web applications with a focus on clean architecture, performance, and real-world usability.
+
 I care about systems that actually work: authentication, APIs, databases, state management, deployments, and scalability.
 
 ---
@@ -31,6 +32,7 @@ I’m actively looking for **internship or junior developer roles** where I can:
 - Advanced **Next.js** patterns
 - Backend scalability & system design basics
 - Dockerized deployments and cloud fundamentals
+- Core **AI/ML concepts** and practical applications
 
 ---
 
