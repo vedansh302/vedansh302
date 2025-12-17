@@ -1,3 +1,6 @@
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=vedansh302&color=FAC151" alt="GitHub Views" />
+</p>
 # Hi, I'm Vedansh 👋
 
 Full Stack Developer | I build production-ready web applications with a focus on clean architecture, performance, and real-world usability. 
